@@ -25,18 +25,31 @@ Luminor Bank 2024
 
 📅 Free Template
 [Top Project Management Excel Templates](https://www.smartsheet.com/top-project-management-excel-templates)
+
 [Free Task List and Checklist Templates](https://www.smartsheet.com/15-free-task-list-templates)
+
 [The Ultimate List of 42 Free Project Management Templates](https://www.workamajig.com/blog/project-management-templates)
+
 [Work Breakdown Structure-WBS](https://www.vertex42.com/ExcelTemplates/work-breakdown-structure.html)
+
 [Sample-WBS-Templates-Download](https://docs.google.com/spreadsheets/d/1MX3h0ivStnAhp_jG57xYcEx2syOkw06wIbrGLs0aVg0/edit#gid=0)
+
 [Project Timeline (Marine Theme)](https://docs.google.com/spreadsheets/d/1dVpGMH7Xkp9ZlO4K-5Khwh_bn0w7_lMfW-C6KmCMuYk/template/preview?usp=drive_web&ouid=%7BuserId%7D)
+
 [IEEE Software Requirements Specification Template](https://web.cs.dal.ca/~hawkey/3130/srs_template-ieee.doc)
+
 [Weekly Timesheet Template](https://docs.google.com/spreadsheets/d/1_QJBA_xqLCCcvgG7XYmcUufWP6AYQOpFMBo_HDFuHIs/edit#gid=2050313977)
+
 [GANTT CHART TEMPLATE](https://docs.google.com/spreadsheets/d/1JcX4sHAuBRGsbXIgktxj5n72sMyFQutQyqJ7R_xQCCU/edit#gid=0)
+
 [To-Do-List](https://docs.google.com/spreadsheets/d/1MYbKR3F_AmFbSqcY2hUK0QVdRfqPdvz0pRsmtNfl-tE/edit?usp=sharing)
+
 [High Level Project Estimation](https://docs.google.com/spreadsheets/d/1rZuor1LssjoSD-C3_Ah8sgHovGvuJb9kiTidIFzAZw4/edit#gid=0)
+
 [Project Start to End Generic Checklist](https://docs.google.com/document/d/1G2myzHQ4xDbeJPscMXN-PRNZq93zpjh9hie3UzRYojw/edit?usp=sharing)
+
 [Project Charter Template](https://docs.google.com/document/d/1SwQ8DwDkRfsvG3YmLF7ewjG2AyNdJZoqJU7QlT04GpI/edit?usp=sharing)
+
 [Minutes of Meeting (MoM)](https://docs.google.com/document/d/18t3xy7ERSFYSjryqCADhJCvi8WJOdyqoNJ0Yl5VkXZ8/edit?usp=sharing)
 
 
