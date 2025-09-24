@@ -24,6 +24,7 @@ Luminor Bank 2024
 ![RecommendationSergejsZlotesko](https://github.com/user-attachments/assets/cd1c10b3-4b1c-4552-a3b9-d32c1b54dbf2)
 
 📅 Free Template
+
 [Top Project Management Excel Templates](https://www.smartsheet.com/top-project-management-excel-templates)
 
 [Free Task List and Checklist Templates](https://www.smartsheet.com/15-free-task-list-templates)
