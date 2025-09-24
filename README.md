@@ -51,7 +51,7 @@ Luminor Bank 2024
 
 [Project Charter Template](https://docs.google.com/document/d/1SwQ8DwDkRfsvG3YmLF7ewjG2AyNdJZoqJU7QlT04GpI/edit?usp=sharing)
 
-[Minutes of Meeting (MoM)](https://docs.google.com/document/d/18t3xy7ERSFYSjryqCADhJCvi8WJOdyqoNJ0Yl5VkXZ8/edit?usp=sharing)
+[Minutes of Meeting (MoM)](https://notejoy.com/resources/meeting-minutes-template)
 
 
 
