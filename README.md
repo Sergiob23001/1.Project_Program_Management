@@ -51,4 +51,14 @@ Luminor Bank 2024
 
 [Simple Estimate - Project Estimation Tool](https://simplestimate.com/)
 
+🛠 Requirements
 
+[Writing Good Requirements](https://reqexperts.com/wp-content/uploads/2015/07/writing_good_requirements.htm)
+
+[How (and why) to write great User Stories](https://www.freecodecamp.org/news/how-and-why-to-write-great-user-stories-f5a110668246/)
+
+[10 TIPS FOR WRITING GOOD USER STORIES](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
+
+[Themes, Epics, And The Art Of Writing User Stories](https://www.knowledgehut.com/blog/agile/themes-epics-and-the-art-of-writing-user-stories)
+
+[The Art of Writing User Stories](https://medium.com/@jenndodd/the-art-of-writing-user-stories-b3b6154ea4cf)
