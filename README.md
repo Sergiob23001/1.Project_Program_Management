@@ -21,6 +21,7 @@
 
 🏆 Recommendations
 Luminor Bank 2024
+![RecommendationSergejsZlotesko](https://github.com/user-attachments/assets/54475517-4f8d-46a9-b679-01b6c19b6290)
 
 
 📅 Free Templates
