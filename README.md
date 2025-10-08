@@ -20,8 +20,9 @@
 - Scaled Agile - SAFe 5 Practitioner - 2022
 
 🏆 Recommendations (2025 and 2024)
-![RecomendacionBechtle](https://github.com/user-attachments/assets/0e774629-6427-4ecd-9d4b-50835c90b932)
-![RecomendacionRedIris](https://github.com/user-attachments/assets/15e4517a-0491-40e9-b977-e990f8f93555)
+
+![RecomendacionRed![RecomendacionBechtle](https://github.com/user-attachments/assets/5ef8357f-b87a-4171-a84b-663f79197f1e)
+Iris](https://github.com/user-attachments/assets/15e4517a-0491-40e9-b977-e990f8f93555)
 ![RecommendationSergejsZlotesko](https://github.com/user-attachments/assets/54475517-4f8d-46a9-b679-01b6c19b6290)
 
 
