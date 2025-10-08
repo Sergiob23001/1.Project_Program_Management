@@ -23,8 +23,9 @@
 
 ![RecomendacionRedIris](https://github.com/user-attachments/assets/6f79bdfb-95c0-4a1a-a13d-30856fee4e69)
 ![RecomendacionBechtle](https://github.com/user-attachments/assets/26e679a2-4881-4fbd-95c2-03a6657b82c9)
+![RecommendationSergejsZlotesko](https://github.com/user-attachments/assets/6f02c10a-7f79-40ac-8e0c-5ab1ea2af0d9)
 
-tionSergejsZlotesko](https://github.com/user-attachments/assets/54475517-4f8d-46a9-b679-01b6c19b6290)
+
 
 
 📅 Free Templates
