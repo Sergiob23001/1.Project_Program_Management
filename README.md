@@ -21,7 +21,7 @@
 
 🏆 Recommendations (2025 and 2024)
 ![RecomendacionBechtle](https://github.com/user-attachments/assets/0e774629-6427-4ecd-9d4b-50835c90b932)
-![RecomendacionBechtle](https://github.com/user-attachments/assets/3f86ad61-a4eb-4367-9426-7eece3c7f932)
+![RecomendacionRedIris](https://github.com/user-attachments/assets/15e4517a-0491-40e9-b977-e990f8f93555)
 ![RecommendationSergejsZlotesko](https://github.com/user-attachments/assets/54475517-4f8d-46a9-b679-01b6c19b6290)
 
 
