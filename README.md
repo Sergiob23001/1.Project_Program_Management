@@ -21,9 +21,9 @@
 
 🏆 Recommendations (2025 and 2024)
 
-![RecomendacionRed![RecomendacionBechtle](https://github.com/user-attachments/assets/5ef8357f-b87a-4171-a84b-663f79197f1e)
-Iris](https://github.com/user-attachments/assets/15e4517a-0491-40e9-b977-e990f8f93555)
-![RecommendationSergejsZlotesko](https://github.com/user-attachments/assets/54475517-4f8d-46a9-b679-01b6c19b6290)
+![RecomendacionRedIris](https://github.com/user-attachments/assets/6f79bdfb-95c0-4a1a-a13d-30856fee4e69)
+![Recommenda![RecomendacionBechtle](https://github.com/user-attachments/assets/b9436eb3-dbcf-43ad-ad75-b980c8dcb284)
+tionSergejsZlotesko](https://github.com/user-attachments/assets/54475517-4f8d-46a9-b679-01b6c19b6290)
 
 
 📅 Free Templates
