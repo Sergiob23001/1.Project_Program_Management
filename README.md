@@ -19,8 +19,9 @@
 - Scaled Agile - Leading SAFe 5.1 - 2023
 - Scaled Agile - SAFe 5 Practitioner - 2022
 
-🏆 Recommendations
-Luminor Bank 2024
+🏆 Recommendations (2025 and 2024)
+![RecomendacionBechtle](https://github.com/user-attachments/assets/0e774629-6427-4ecd-9d4b-50835c90b932)
+![RecomendacionBechtle](https://github.com/user-attachments/assets/3f86ad61-a4eb-4367-9426-7eece3c7f932)
 ![RecommendationSergejsZlotesko](https://github.com/user-attachments/assets/54475517-4f8d-46a9-b679-01b6c19b6290)
 
 
